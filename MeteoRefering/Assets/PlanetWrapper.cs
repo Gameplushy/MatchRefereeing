@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class PlanetWrapper : MonoBehaviour {
+public class PlanetWrapper : MonoBehaviour
+{
     public Animator animator;
     public KMSelectable selectable;
     public SpriteRenderer sr;
